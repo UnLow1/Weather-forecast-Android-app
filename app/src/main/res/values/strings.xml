@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Forecast App</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="woeid">woeId</string>
+    <string name="city">City</string>
+</resources>
